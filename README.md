@@ -6,7 +6,7 @@ I'm a master's student at Technische Universiteit Delft (TUD), and I'm majoring 
 - 🤔 I'm also interested in financial skills
 - 💬 Connect me via [Email](yx.wu.work@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegedoge&layout=compact)](https://github.com/vegedoge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegedoge&layout=compact&hide=vhdl,v)](https://github.com/vegedoge/github-readme-stats)
 <!--
 **vegedoge/vegedoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
