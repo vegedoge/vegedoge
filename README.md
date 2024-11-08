@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey, welcome to my Github! 👋
+I'm currently a master's student at Technische Universiteit Delft(TUD), and I'm majoring in Computer & Embedded Systems Engineering.
 
+- 💻 I'm currently learning Rust
+- 🚀 I'm looking to work on Accelerated Computing & ML-System
+- 🤔 I'm also interested in financial skills
+- 💬 Connect me via [Email](yx.wu.work@gmail.com)
 <!--
 **vegedoge/vegedoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
