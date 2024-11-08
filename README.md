@@ -1,5 +1,5 @@
 ## Hey, welcome to my Github! 👋
-I'm a master's student at Technische Universiteit Delft (TUD), and I'm majoring Computer & Embedded Systems Engineering.
+I'm a master's student at Technische Universiteit Delft (TUD), and I'm majoring in Computer & Embedded Systems Engineering.
 
 - 💻 I'm currently learning Rust and CUDA
 - 🚀 I'm looking to work on Accelerated Computing & ML-System
