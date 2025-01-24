@@ -1,4 +1,4 @@
-## Hey, welcome to my Github! 👋
+## Hey, welcome to my Profile! 👋
 I'm a master's student at Technische Universiteit Delft (TUD), and I'm majoring in Computer & Embedded Systems Engineering.
 
 - 💻 I'm currently learning Rust and CUDA
