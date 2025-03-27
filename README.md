@@ -1,7 +1,7 @@
 ## Hey, welcome to my Profile! 👋
 I'm a master's student at Technische Universiteit Delft (TUD), and I'm majoring in Computer & Embedded Systems Engineering.
 
-- 💻 I'm currently learning Rust and CUDA
+- 💻 I'm currently learning Rust and CPP
 - 🚀 I'm looking to work on Accelerated Computing & ML-System
 - 🤔 I'm also interested in financial skills
 - 💬 Connect me via [Email](yx.wu.work@gmail.com)
